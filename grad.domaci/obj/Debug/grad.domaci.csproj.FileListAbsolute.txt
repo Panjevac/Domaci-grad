@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\MILOS\програмирање\grad.domaci\bin\Debug\grad.domaci.exe.config
+C:\Users\User\Desktop\MILOS\програмирање\grad.domaci\bin\Debug\grad.domaci.exe
+C:\Users\User\Desktop\MILOS\програмирање\grad.domaci\bin\Debug\grad.domaci.pdb
+C:\Users\User\Desktop\MILOS\програмирање\grad.domaci\obj\Debug\grad.domaci.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MILOS\програмирање\grad.domaci\obj\Debug\grad.domaci.Form1.resources
+C:\Users\User\Desktop\MILOS\програмирање\grad.domaci\obj\Debug\grad.domaci.Properties.Resources.resources
+C:\Users\User\Desktop\MILOS\програмирање\grad.domaci\obj\Debug\grad.domaci.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MILOS\програмирање\grad.domaci\obj\Debug\grad.domaci.exe
+C:\Users\User\Desktop\MILOS\програмирање\grad.domaci\obj\Debug\grad.domaci.pdb
